@@ -1,3 +1,1 @@
 # RRG
-
-Ralph Angeli
